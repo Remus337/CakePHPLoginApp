@@ -290,7 +290,7 @@ return [
          * and should be used for local and per-environment configurations.
          *
          * Environment variable based configurations can be loaded here or
-         * in app_local.php depending on the applications needs
+         * in app_local.php depending on the applications needs.
          */
         'default' => [
             'className' => Connection::class,
